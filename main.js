@@ -65,14 +65,14 @@ const app ={
           {
             name: "ghệ iu dấu của em ơi",
             singer: "tlinh",
-            path: "GheIuDauCuaEmOivocals-tlinh2pillzWOKEUPAT4AM-8770077.mp3",
+            path: "./song/GheIuDauCuaEmOivocals-tlinh2pillzWOKEUPAT4AM-8770077.mp3",
             image:
               "https://kenh14cdn.com/thumb_w/620/203336854389633024/2023/3/13/photo-5-16786819800641509230338.jpeg"
           },
           {
             name: "Thắc Mắc",
             singer: "Thịnh Suy",
-            path: "Thắc Mắc.mp3",
+            path: "./song/thacmac.mp3",
             image:
               "https://media.vov.vn/sites/default/files/styles/large/public/2020-11/1_221.jpg"
           },
@@ -80,7 +80,7 @@ const app ={
             name: "Anh thương em nhất mà",
             singer: "Tường Quân x LÃ",
             path:
-              "AnhThuongemnhatma.mp3",
+              "./song/AnhThuongemnhatma.mp3",
             image:
               "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/fc/9c/b1/fc9cb14b-c923-20df-ee43-482b26b1d422/cover.jpg/316x316bb.webp"
           },
