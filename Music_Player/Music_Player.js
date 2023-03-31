@@ -43,10 +43,10 @@ const app ={
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     song:[ 
           {
-            name: "Bồ em",
-            singer: "dinh",
-            path:"./song/BoEm-DINH-6820879.mp3",
-            image: "https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/338715576_203896179003990_6345631876876058252_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=C4zMZVJaaNMAX9NcaFz&_nc_ht=scontent.fdad4-1.fna&oh=03_AdRANxWJR4TA5jM-PeoCzWrR5B6iMTrSfcxeNUuU5Ta6Vg&oe=644CBC44"
+            name: "哪里都是你/Đâu đâu cũng là em",
+            singer: "YoungCaptain",
+            path:"./song/y2mate.com - vietsub  Đâu đâu cũng là em  YoungCaptain  哪里都是你   YoungCaptain.mp3",
+            image: "https://scontent.fdad3-6.fna.fbcdn.net/v/t1.15752-9/338791999_884261335999323_802754814794031653_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=amRNsRYYZDMAX901Gsj&_nc_ht=scontent.fdad3-6.fna&oh=03_AdRlKJYBaPn2eLl8WrjtjmXmoqunrk8d7UJe1UcpYdc4sw&oe=644E28C0"
           },
           {
             name: "ky niem",
@@ -57,7 +57,7 @@ const app ={
           {
             name: " Anh Muốn Mình Như Con Thuyền Kia",
             singer: "Ngắn x Mhee",
-            path: "./song/AnhMuonMinhNhuConThuyenKiaLaoVaoEmRoiDamChim-NganMHee-8770029.mp3",
+            path: "./Music_Player/song//AnhMuonMinhNhuConThuyenKiaLaoVaoEmRoiDamChim-NganMHee-8770029.mp3",
             image:
               "https://baochauelec.com/cdn/images/tin-tuc/loi-bai-hat-anh-muon-minh-nhu-con-thuyen-kia-ngan-mhee-ban-chuan.jpg"
           },
@@ -65,7 +65,7 @@ const app ={
           {
             name: "ghệ iu dấu của em ơi",
             singer: "tlinh",
-            path: "./song/GheIuDauCuaEmOivocals-tlinh2pillzWOKEUPAT4AM-8770077.mp3",
+            path: ".song/GheIuDauCuaEmOivocals-tlinh2pillzWOKEUPAT4AM-8770077.mp3",
             image:
               "https://kenh14cdn.com/thumb_w/620/203336854389633024/2023/3/13/photo-5-16786819800641509230338.jpeg"
           },
