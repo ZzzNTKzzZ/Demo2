@@ -57,7 +57,7 @@ const app ={
           {
             name: " Anh Muốn Mình Như Con Thuyền Kia",
             singer: "Ngắn x Mhee",
-            path: "./Music_Player/song//AnhMuonMinhNhuConThuyenKiaLaoVaoEmRoiDamChim-NganMHee-8770029.mp3",
+            path: "./song/AnhMuonMinhNhuConThuyenKiaLaoVaoEmRoiDamChim-NganMHee-8770029.mp3",
             image:
               "https://baochauelec.com/cdn/images/tin-tuc/loi-bai-hat-anh-muon-minh-nhu-con-thuyen-kia-ngan-mhee-ban-chuan.jpg"
           },
@@ -65,7 +65,7 @@ const app ={
           {
             name: "ghệ iu dấu của em ơi",
             singer: "tlinh",
-            path: ".song/GheIuDauCuaEmOivocals-tlinh2pillzWOKEUPAT4AM-8770077.mp3",
+            path: "./song/GheIuDauCuaEmOivocals-tlinh2pillzWOKEUPAT4AM-8770077.mp3",
             image:
               "https://kenh14cdn.com/thumb_w/620/203336854389633024/2023/3/13/photo-5-16786819800641509230338.jpeg"
           },
